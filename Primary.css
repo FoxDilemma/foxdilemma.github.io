@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
-	background: #191970 url("Background.gif") no-repeat fixed center; 
+	background: rgb(63, 49, 62) url("Background.gif") no-repeat fixed center; 
 	color: blue;
   	font-family: Goudy Old Style, Perpetua, serif;
 }
@@ -13,12 +13,12 @@ h2 {
 	height: 100%;
 	margin: 0;
 	text-align: left;
-	color: #E6E6FA;
+	color: rgb(179, 193, 202);
   	font-family: Goudy Old Style, Perpetua, serif;	
 }
 
 div {
-	background-color: #191970;
-	border: 5px solid black;
+	background-color: rgb(247, 226, 223);
+	border: 3px solid black;
 	text-align: center;	
 }
