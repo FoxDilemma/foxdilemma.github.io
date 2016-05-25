@@ -3,6 +3,14 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
+	background-color: lightgrey;
+	background: #E6E6FA url("Background.gif") no-repeat fixed center; 
 	color: blue;
-  	font-family: Verdana, Geneva, sans-serif;
+  	font-family: Goudy Old Style, Perpetua, sans-serif;
+}
+
+h2 {
+	text-align: center;
+	color: #191970;
+  	font-family: Goudy Old Style, Perpetua, serif;	
 }
