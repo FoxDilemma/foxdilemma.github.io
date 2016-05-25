@@ -3,14 +3,22 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
-	background-color: lightgrey;
-	background: #E6E6FA url("Background.gif") no-repeat fixed center; 
+	background: #191970 url("Background.gif") no-repeat fixed center; 
 	color: blue;
-  	font-family: Goudy Old Style, Perpetua, sans-serif;
+  	font-family: Goudy Old Style, Perpetua, serif;
 }
 
 h2 {
 	text-align: center;
-	color: #191970;
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	color: #E6E6FA;
   	font-family: Goudy Old Style, Perpetua, serif;	
+}
+
+div {
+	background-color: #191970;
+	border: 5px solid black;
+	text-align: center;	
 }
