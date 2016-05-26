@@ -25,5 +25,6 @@ h2 {
 h2 {
 	background-color: rgb(247, 226, 223);
 	border: 3px solid black;
-	text-align: center;	
+	text-align: center;
+	padding: 10px;
 }
