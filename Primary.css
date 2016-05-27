@@ -44,3 +44,11 @@ body {
   	font-family: Goudy Old Style, Perpetua, serif;
   	border: 3px solid white;
 }
+
+/*Class for the Data Area*/
+.Data {
+	text-align: left;
+	color: rgb(63, 49, 62);/*Dark Purple*/
+	background-color: rgb(247, 226, 223);/*Pink*/
+	border: 3px solid red;
+}
