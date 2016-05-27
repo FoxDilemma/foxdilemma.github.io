@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: rgb(63, 49, 62);
+	background-color: rgb(63, 49, 62); /*Dark Purple*/
 	background: rgb(63, 49, 62) url("Background.gif") no-repeat center center fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -12,15 +12,14 @@ body {
   	font-family: Goudy Old Style, Perpetua, serif;
 }
 
+/*Class for the center box*/
 .Logo {
 	text-align: center;
 	height: 100%;
 	margin: 0;
-	color: rgb(63, 49, 62);
-	background-color: rgb(247, 226, 223);
+	color: rgb(63, 49, 62);/*Dark Purple*/
+	background-color: rgb(247, 226, 223);/*Pink*/
 	border: 3px solid black;
-	text-align: center;
-	padding: 10px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 20px;
+	position: absolute;
 }
