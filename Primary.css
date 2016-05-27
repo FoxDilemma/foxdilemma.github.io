@@ -22,3 +22,20 @@ body {
 	border: 3px solid black;
 	padding: 20px;
 }
+
+/*Class for the Content Area*/
+.Content {
+	text-align: left;
+	color: rgb(63, 49, 62);/*Dark Purple*/
+	background-color: rgb(247, 226, 223);/*Pink*/
+	border: 3px solid pink;
+}
+
+/*Class for the Nav Bar*/
+.NavBar {
+	text-align: center;
+	background-color: rgb(63, 49, 62); /*Dark Purple*/
+	color: rgb(247, 226, 223);/*Pink*/
+  	font-family: Goudy Old Style, Perpetua, serif;
+  	border: 3px solid white;
+}
