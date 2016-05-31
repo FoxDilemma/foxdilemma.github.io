@@ -67,17 +67,21 @@ body {
 
 /*Classes for Title Image*/
 .Title {
-	float: right;
-    	margin: 0 0 10px 10px;	
+	float: left;
+	margin: 0 0 10px 10px;	
 }
 
 /*Class for Slider Captions*/
 .Caption {
-font-size: 0.5em;	
+	font-size: 0.75em;	
 }
 
 /*Class for Slider Verdict*/
 .Verdict {
-font-size: 1em;	
-font: italic;
+	font: italic;
+	text-align: center;
+}
+
+Table {
+	text-align: center;
 }
