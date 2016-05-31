@@ -64,3 +64,20 @@ body {
   display: table-cell;
   float: none !important;
 }
+
+/*Classes for Title Image*/
+.Title {
+	float: right;
+    	margin: 0 0 10px 10px;	
+}
+
+/*Class for Slider Captions*/
+.Caption {
+font-size: 0.5em;	
+}
+
+/*Class for Slider Verdict*/
+.Verdict {
+font-size: 1em;	
+font: italic;
+}
