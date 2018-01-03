@@ -4,11 +4,11 @@ body {
 	text-align: center;
 	width: 100%;
 	background-color: rgb(63, 49, 62); /*Dark Purple*/
-	background: rgb(63, 49, 62) url("Background.gif") no-repeat center center fixed; 
+	background: rgb(63, 49, 62) url("BackgroundPinkB.gif") repeat center center fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
-  	background-size: cover;
+  	background-size: auto;
   	font-family: Goudy Old Style, Perpetua, serif;
 }
 
