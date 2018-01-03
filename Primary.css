@@ -3,8 +3,8 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: rgb(63, 49, 62); /*Dark Purple*/
-	background: rgb(63, 49, 62) url("BackgroundPinkB.gif") repeat center center fixed; 
+	background-color: rgb(255, 204, 255); /*Light Pink*/
+	background: rgb(255, 204, 255) url("BackgroundPinkB.gif") repeat center center fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
