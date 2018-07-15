@@ -33,7 +33,7 @@ body {
 
 /*Class for the Content Area*/
 .item {
-	border: 3px dotted purple;
+	border: None;
 }
 
 /*Class for the Nav Bar*/
@@ -84,4 +84,25 @@ body {
 
 Table {
 	text-align: center;
+}
+
+/* Link Colors */
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: White;
+}
+
+/* mouse over link */
+a:hover {
+    color: pink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 }
