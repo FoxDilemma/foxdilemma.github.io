@@ -12,11 +12,6 @@ body {
   	font-family: Goudy Old Style, Perpetua, serif;
 }
 
-/* visited link */
-a:visited {
-    color: White;
-}
-
 /*Class for the center box*/
 .Logo {
 	text-align: center;
