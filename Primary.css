@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: rgb(255, 204, 255); /*Pink*/
+	background-color: rgb(161, 84, 151); /*DarkPink*/
 	background: rgb(255, 204, 255) url("BackgroundPinkB1.gif") repeat center center fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
