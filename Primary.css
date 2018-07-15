@@ -17,25 +17,9 @@ h2 {
     text-align: center;
 }
 
-/* Link Colors */
-/* unvisited link */
-a:link {
-    color: white;
-}
-
 /* visited link */
 a:visited {
     color: White;
-}
-
-/* mouse over link */
-a:hover {
-    color: pink;
-}
-
-/* selected link */
-a:active {
-    color: blue;
 }
 
 /*Class for the center box*/
